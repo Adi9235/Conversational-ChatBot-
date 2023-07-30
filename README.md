@@ -27,6 +27,12 @@ To built the UI for chatbot to work on Streamlit and also for chatbot to work on
 also on Github codespaces but there was some error on vite.svg and that I was not able to configure. I was facing this error on Windows. I am aiming to work on 
 solving this issue after this hackathon.
 
+## **Issues Faced** <br>
+![image](https://github.com/Adi9235/Conversational-ChatBot-/assets/88960354/ea54f580-24b3-4d1d-a8b7-6d856941aab6)
+
+
+
+
 **Reference** <br>
 https://blog.futuresmart.ai/building-an-interactive-chatbot-with-langchain-chatgpt-pinecone-and-streamlit
 
